@@ -62,13 +62,14 @@ This implementation is based on the following research work:
 
 ## 📸 Results
 
-### 🔹 Before (Blurred Image)
+### 🔹 Before
+![Input](images1.png)
 
-![Input](input_images/images1.png)
+### 🔹 After
+![Output](images1_CLEAR_TEXT.png)
 
-### 🔹 After (Deblurred Output)
-
-![Output](output_results/images1_CLEAR_TEXT.png)
+🔗 [View Full Input Image](images1.png)  
+🔗 [View Full Output Image](images1_CLEAR_TEXT.png)
 
 ---
 
